@@ -1,0 +1,6 @@
+#Solving the problem of budgeting for a trip was simple.
+#The problem that was given to me wasn’t super hard and involved only simple math.
+#It was simple programming myself rather than with a partner.
+#I already had a background in Python and used that knowledge to make inputs, assign variables, and use if/else statements.
+#I relearned how to do if/else statements again and it helped me to tell the user if they could afford to go on the trip, or if they could not.
+#Next time I do a project like this I will need to add user inputs immediately rather than waiting until the final project is due to add them.
